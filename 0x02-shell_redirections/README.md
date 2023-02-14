@@ -29,7 +29,7 @@
     - The output should be; one file per line and sorted from the newest to the oldest.
 13. [Being unique is better than being perfect](./13-unique) : A script that takes a list of words as input and prints only words that appear exactly once.
     - Input and Output format is; `One word per line`.
-    - Words should be sorted. (use this [list](./list) as your input to see if the challenge will work. 😊) `cat list | ./13-unique`
+    - Words should be sorted. (use this [list](./list) as your input to see if the challenge will work. ) `cat list | ./13-unique`
 14. [It must be in that file](./14-findthatword) : A script that prints lines containing the pattern `"root"` from the file `/etc/passwd`.
 15. [Count that word](./15-countthatword) : A script that displays the number of lines that contain the pattern `"bin"` in the file `/etc/passwd`.
 16. [What's next?](./16-whatsnext) : A script that containing the pattern `"root"` and 3 lines after them in the file `/etc/passwd`.
